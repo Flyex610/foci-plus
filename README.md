@@ -59,5 +59,5 @@
 Copyright © 2026 Foci+. All rights reserved.  
 Permission is granted to download and run the compiled Foci+ application for personal use only. Redistribution, modification, commercial resale, or reverse engineering is not permitted without written permission.
 
--# This is a AI created product, However I have tried my best to test it to the limits and create a good product since I found out that MacOS has a lack of "Focus apps"
+This is a AI created product, However I have tried my best to test it to the limits and create a good product since I found out that MacOS has a lack of "Focus apps"
 Thank you for your support!
